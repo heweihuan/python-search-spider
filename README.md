@@ -65,6 +65,7 @@ python product_search_selenium.py --site taobao --kw 蓝牙耳机 --num 10 --sho
 ```text
 search_results.csv
 ```
+<img width="800" height="745" alt="爬虫运行结果截图" src="https://github.com/user-attachments/assets/b2ca6ed0-6cb2-4a16-a138-061a6d33afb5" />
 
 CSV 中包含：
 
