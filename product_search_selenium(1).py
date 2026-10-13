@@ -1,11 +1,4 @@
 
-# 商品自动搜索爬虫（Selenium 登录版）  平台：淘宝/天猫、京东
-# 运行：
-#   python product_search_selenium.py            交互输入
-#   python product_search_selenium.py --demo     离线演示，验证 0 报错
-#   python product_search_selenium.py --site taobao --kw 蓝牙耳机 --num 10 --shops 5
-# 依赖（真实抓取才需要）：pip install selenium   （Selenium4.6+ 自动管驱动，装好 Chrome 即可）
-
 import time
 import csv
 import random
