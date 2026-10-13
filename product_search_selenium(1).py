@@ -6,7 +6,7 @@
 #   python product_search_selenium.py --site taobao --kw 蓝牙耳机 --num 10 --shops 5
 # 依赖（真实抓取才需要）：pip install selenium   （Selenium4.6+ 自动管驱动，装好 Chrome 即可）
 
-import tim
+import time
 import csv
 import random
 import argparse
